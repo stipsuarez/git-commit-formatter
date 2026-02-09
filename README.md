@@ -2,6 +2,26 @@
 
 A standardized Git commit message skill that enforces consistent, branch-aware commit formatting across your development workflow.
 
+## Quick Install
+
+### Using NPX Skills (Recommended for AI Agents)
+```bash
+npx skills add https://github.com/stipsuarez/git-commit-formatter --skill git-commit-formatter
+```
+
+### Using NPM
+```bash
+npm install -g git-commit-formatter
+```
+
+### Using Git Clone
+```bash
+git clone https://github.com/stipsuarez/git-commit-formatter.git
+cd git-commit-formatter
+```
+
+---
+
 ## Overview
 
 The Git Commit Formatter skill ensures all commits follow a standardized convention that includes the current Git branch name as a prefix, followed by a concise description of the changes. This approach provides several benefits:
