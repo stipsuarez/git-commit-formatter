@@ -3,7 +3,7 @@ name: git-commit-formatter
 description: Guide for creating properly formatted git commit messages that follow the BRANCH_NAME: description convention. This skill helps ensure all commits include the current branch identifier at the beginning, followed by a concise description of the changes made.
 license: MIT
 metadata:
-  author: user
+  author: Stip Suárez
   version: "1.0.0"
 ---
 
